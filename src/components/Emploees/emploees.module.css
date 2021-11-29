@@ -1,0 +1,19 @@
+.wrap {
+  width: 50%;
+  height: 100%;
+  border-right: 1px solid rgb(131, 128, 128);
+  text-align: center;
+}
+
+.wrap li {
+  list-style: none;
+}
+
+.wrap h2 {
+  align-items: left;
+  justify-content: left;
+}
+
+.active {
+  color: blue;
+}
